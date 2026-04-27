@@ -7,11 +7,11 @@ Documentation and notes on my MeshCore repeaters
 
 ## Nodes
 
-- [Beaumont Studios](Beaumont%20Studios/profile.md)
-- [Buccaneer Bay](Buccaneer%20Bay/profile.md)
-- [Co-Food Garden](Co-Food%20Garden/profile.md)
-- [JLS Downtown](JLS_Downtown/profile.md)
-- [JLS Kalama](JLS_Kalama/profile.md)
-- [Olympic Village](Olympic%20Village/profile.md)
-- [Seaforth Armoury](Seaforth%20Armoury/profile.md)
-- [Z-Space](Z-Space/profile.md)
+- [Olympic Village](Nodes/Olympic%20Village/profile.md)
+- [Z-Space](Nodes/Z-Space/profile.md)
+- [Co-Food Garden](Nodes/Co-Food%20Garden/profile.md)
+- [Seaforth Armoury](Nodes/Seaforth%20Armoury/profile.md)
+- [Beaumont Studios](Nodes/Beaumont%20Studios/profile.md)
+- [Buccaneer Bay](Nodes/Buccaneer%20Bay/profile.md)
+- [JLS Downtown](Nodes/JLS_Downtown/profile.md)
+- [JLS Kalama](Nodes/JLS_Kalama/profile.md)
